@@ -1,7 +1,4 @@
 # Varsity Code
-## Developing Tomorrows Technical Leaders Today
-## Turning Curisoity into Technical Talent
-## Technical Leadership Starts Here
 
 ## Six Week Minecraft Code Club
 Channel your passion for Minecraft into a cash course in
